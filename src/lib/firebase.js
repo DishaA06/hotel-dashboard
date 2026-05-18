@@ -57,12 +57,7 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCsFp5oJJDvLqcMW79mQ-HUfsVamNGHZ3o",
-  authDomain: "stayops-hotel.firebaseapp.com",
-  projectId: "stayops-hotel",
-  storageBucket: "stayops-hotel.firebasestorage.app",
-  messagingSenderId: "798506474331",
-  appId: "1:798506474331:web:f601c83189c7077ab1d87e",
+ ///
 };
 
 const app = !getApps().length
