@@ -214,10 +214,17 @@ firebase deploy
 - ✅ Stats summary bar
 
 ## ❌ Out of Scope (by design)
-
 - Push notifications
 - AI or smart scheduling
 - Analytics or reporting
 - File/photo attachments
 - Guest-facing features
 - Multi-property support
+
+
+
+PROJECT MEMBERS:
+PRANAV KSHIRSAGAR
+KANISHKA ARDE 
+DISHA OZA
+DIVYA KHANDARE
